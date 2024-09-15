@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DuckyOnQuack-999/DuckyOnQuack-999/blob/main/5155f469-de08-4abb-bba8-3bd3c36a967e.png" alt="Banner Image"/>
+  <img src="https://github.com/DuckyOnQuack-999/DuckyOnQuack-999/blob/main/36b6ea39-797f-4d15-a702-814c97939870%20(2).png" alt="Banner Image"/>
 </div>
 
 ---
