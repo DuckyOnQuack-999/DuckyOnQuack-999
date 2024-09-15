@@ -30,7 +30,7 @@ Scripting and Automation
 <h2 align="center">💻 Projects</h2> <div align="center"> <a href="https://github.com/DuckyOnQuack-999/Win11-Customizer-Suite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckyOnQuack-999&repo=Win11-Customizer-Suite&theme=radical" alt="Win11-Customizer-Suite"/> </a> <a href="https://github.com/DuckyOnQuack-999/WinKit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckyOnQuack-999&repo=WinKit&theme=radical" alt="WinKit"/> </a> <!-- Add more project cards if any --> </div>
 
 ---
-<h2 align="center">🚀 Activity Graph</h2> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DuckyOnQuack-999&theme=radical" alt="Activity Graph"/> </p>
+<h2 id="activity-graph" align="center">🚀 Activity Graph</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuckyOnQuack-999&theme=radical" alt="Activity Graph"/> </p>
 
 ---
 <h2 align="center">✨ Quote of the Day</h2> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/> </p>
