@@ -56,7 +56,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-<a href="https://discord.com/users/your-discord-id">
+<a href="https://discord.com/users/282354969376456704">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
