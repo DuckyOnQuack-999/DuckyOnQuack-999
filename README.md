@@ -89,18 +89,6 @@
 
 ---
 
-<h2 align="center">🎵 Music Lover</h2>
-
-
-<p align="center">
-  <a href="https://music.apple.com/profile/your-apple-music-username">
-    <img src="https://img.shields.io/badge/Apple%20Music-F34E68?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
-  </a>
-</p>
-
-
----
-
 <h2 align="center">✨ Quote of the Day</h2>
 
 <p align="center">
